@@ -1,18 +1,18 @@
 <a href="https://win-money.click/?brand=SlotStars&source=github.com" target="_blank">
-<img width="306" src="https://img.shields.io/badge/%D0%9E%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%81%D0%B0%D0%B9%D1%82%20Slot%20Stars-D32F2F?style=flat" />
+<img width="306" src="https://img.shields.io/badge/%D0%9E%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%81%D0%B0%D0%B9%D1%82%20Slot%20Stars-00838F?style=flat-square" />
 </a>
 <br />
 <br />
 <a href="https://win-money.click/?brand=SlotStars&source=github.com" target="_blank">
-<img width="178" src="https://img.shields.io/badge/%D0%92%D1%85%D0%BE%D0%B4%20Slot%20Stars-D32F2F?style=flat" />
+<img width="178" src="https://img.shields.io/badge/%D0%92%D1%85%D0%BE%D0%B4%20Slot%20Stars-00838F?style=flat-square" />
 </a>
 <br />
 <br />
 <a href="https://win-money.click/?brand=SlotStars&source=github.com" target="_blank">
-<img width="210" src="https://img.shields.io/badge/%D0%97%D0%B5%D1%80%D0%BA%D0%B0%D0%BB%D0%BE%20Slot%20Stars-D32F2F?style=flat" />
+<img width="210" src="https://img.shields.io/badge/%D0%97%D0%B5%D1%80%D0%BA%D0%B0%D0%BB%D0%BE%20Slot%20Stars-00838F?style=flat-square" />
 </a>
 
-![Slot Stars](334-1694.png)
+![Slot Stars](33-5153.png)
 
 <h2>Слот Старс Казино: Практическое гайд для гемблеров 🚀</h2>
 <p>Данное гайд призвано ориентировать нового гемблера в мире <strong>Слот Старс Казино</strong>, освещая ключевые аспекты игрового процесса и функционал официального сайта.</p>
@@ -141,4 +141,3 @@
 </ul>
 
 [Open website](https://win-money.click/?brand=SlotStars&source=github.com)
-
